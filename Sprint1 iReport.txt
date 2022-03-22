@@ -1,3 +1,4 @@
 Alaric membuat Dashboard
 Zaidan membuat register
 Kamilia membuat login
+hanafi membuat landing page
