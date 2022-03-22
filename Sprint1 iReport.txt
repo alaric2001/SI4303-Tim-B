@@ -4,4 +4,4 @@ Kamilia membuat login [sudah selesai]
 hanafi membuat landing page [selesai]
 Irfan membuat Profile page
 Aaric membuat logout
-Raafi membuat detail halaman
+Raafi membuat detail halaman [selesai]
